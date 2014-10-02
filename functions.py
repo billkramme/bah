@@ -124,14 +124,11 @@ def actioner(g, line, username, channel, gamechannel):
             if message:
                 messages += [{"message": message, "channel": gamechannel}]
 
-<<<<<<< HEAD
     elif lower == "kickchank":
         message = g.part("Chank")
         if message:
             messages += [{"message": message, "channel": gamechannel}]
 
-=======
->>>>>>> 7a78de84285b283e97c8349a1f79bc40f29b8b02
     elif lower == "czar":
         if g.inprogress:
             messages.append({"message": "The Card Czar is %s" %g.czar.username, "channel": gamechannel})
@@ -270,11 +267,8 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "reload":
         reload(cards)
         messages.append({"message": "Reloading card file.", "channel": channel})
-<<<<<<< HEAD
     elif lower == "quit res0n4t0r":
         exit("Asked to quit by %username")
-=======
->>>>>>> 7a78de84285b283e97c8349a1f79bc40f29b8b02
     elif lower[:4] == "say ":
         if username == "res0":
             messages.append({"message": line[4:], "channel": gamechannel})
@@ -547,7 +541,3 @@ class Game():
         else:
             message = None
         return message
-<<<<<<< HEAD
-
-=======
->>>>>>> 7a78de84285b283e97c8349a1f79bc40f29b8b02
