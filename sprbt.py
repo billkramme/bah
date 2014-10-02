@@ -74,7 +74,10 @@ class IRCConnector( threading.Thread):
                 if re.search(":End of /MOTD command.", line):
                         joinchannel = "JOIN %s\n" %self.channel
                         self.output(joinchannel)
+<<<<<<< HEAD
                         self.s.send("PRIVMSG nickserv :identify p4ssw0rd\n")
+=======
+>>>>>>> 7a78de84285b283e97c8349a1f79bc40f29b8b02
                         self.s.send(joinchannel)
                         self.inchannel = True
 
