@@ -17,7 +17,7 @@ class IRCConnector( threading.Thread):
         self.identity = "bah"
         self.realname = "bot against humanity"
         self.hostname = "emmark.info"
-        self.botname = "bah2"
+        self.botname = "bah"
         self.allmessages = []
         self.lastmessage = datetime.now()
         self.pulsetime = 500
