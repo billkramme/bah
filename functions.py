@@ -124,11 +124,6 @@ def actioner(g, line, username, channel, gamechannel):
             if message:
                 messages += [{"message": message, "channel": gamechannel}]
 
-    elif lower == "kickchank":
-        message = g.part("Chank")
-        if message:
-            messages += [{"message": message, "channel": gamechannel}]
-
     elif lower == "czar":
         if g.inprogress:
             messages.append({"message": "The Card Czar is %s" %g.czar.username, "channel": gamechannel})
@@ -267,8 +262,6 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "reload":
         reload(cards)
         messages.append({"message": "Reloading card file.", "channel": channel})
-    elif lower == "quit res0n4t0r":
-        exit("Asked to quit by %username")
     elif lower[:4] == "say ":
         if username == "res0":
             messages.append({"message": line[4:], "channel": gamechannel})
