@@ -1,5 +1,6 @@
 def wcards():
     return [
+    "Testing dumb computer stuff.",
     "A Gypsy curse.",
     "A moment of silence.",
     "A sausage festival.",
