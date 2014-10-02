@@ -119,23 +119,6 @@ def actioner(g, line, username, channel, gamechannel):
         if message:
             messages += [{"message": message, "channel": gamechannel}]
 
-    elif lower[:5] == "kick ":
-        if username == "res0":
-            message = g.part(lower[5:])
-            if message:
-                messages += [{"message": message, "channel": gamechannel}]
-<<<<<<< HEAD
-=======
-
->>>>>>> 645ddc7044e28602c3129746dc8a2fa5a4b3d11d
-    elif lower == "kickchank":
-        message = g.part("Chank")
-        if message:
-            messages += [{"message": message, "channel": gamechannel}]
-<<<<<<< HEAD
-=======
-
->>>>>>> 645ddc7044e28602c3129746dc8a2fa5a4b3d11d
     elif lower == "czar":
         if g.inprogress:
             messages.append({"message": "The Card Czar is %s" %g.czar.username, "channel": gamechannel})
@@ -274,11 +257,8 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "reload":
         reload(cards)
         messages.append({"message": "Reloading card file.", "channel": channel})
-<<<<<<< HEAD
+
     elif lower == "quit %s" % (settings.quitpassword):
-=======
-    elif lower == "quit res0n4t0r":
->>>>>>> 645ddc7044e28602c3129746dc8a2fa5a4b3d11d
         exit("Asked to quit by %username")
     elif lower[:4] == "say ":
         if username == "res0":
