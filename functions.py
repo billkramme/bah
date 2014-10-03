@@ -376,9 +376,9 @@ def gameLogic(g, line, username, channel, gamechannel):
 
                     db = MySQLdb.connect(host="localhost", user="webd", passwd=settings.sqlpassword, db="bah")
                     cur = db.cursor()
-                    sql = "INSERT INTO winners (player, czar, bcard, wcard) values ('%s', '%s', '%s', '%s')" % (cardOwner.username, g.czar.username, g.blackcard, cardText)
-                    cur.execute(sql)
-                    db.close()                    
+                    data = (cardOwner.username, g.czar.username, g.blackcard, cardText)
+                    cur.execute("INSERT INTO winners (player, czar, bcard, wcard) values (%s, %s, %s, %s)", data)
+                    db.close()
 
                     cardOwner.score += 1
                     if int(cardOwner.score) == int(g.maxscore):
