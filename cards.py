@@ -1276,6 +1276,7 @@ def bcards():
     "You can tell it's a new season because all the stores are selling __________.",
     "What's the newest product to be offered in pumpkin spice flavor?",
     "Today is National __________ Day!",
+    "Chank and res0 can't stop fighting about __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
