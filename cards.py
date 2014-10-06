@@ -892,6 +892,7 @@ def wcards():
     "Pumpkin spice flavored condoms.",
     "Literally sleeping with the fishes.",
     "k27463 cosplaying as Thomas the Tank Engine.",
+    "A Pomplamoose show.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1277,6 +1278,7 @@ def bcards():
     "What's the newest product to be offered in pumpkin spice flavor?",
     "Today is National __________ Day!",
     "Chank and res0 can't stop fighting about __________.",
+    "What name will the trivia team use this week?",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
@@ -1376,6 +1378,7 @@ def bcards2():
     "The specials for today are __________ and __________.",
     "res0 is working on a new song that incorporates __________ and __________.",
     "I can't wait for __________ and __________ to coincide. But not in real life. Just in the cards.",
+    "My surefire pickup line involves asking about __________ and suggesting that we go back to my place for __________.",
 #crabs
     "A wild __________ appears! You used __________! It's super effective!", 
     "I was once sent to the HR department for an incident involving __________ and __________.",
