@@ -894,6 +894,10 @@ def wcards():
     "k27463 cosplaying as Thomas the Tank Engine.",
     "A Pomplamoose show.",
     "Gluing pubes to my face in lieu of growing a beard.",
+    "Forgetting about Primus.",
+    "Forgetting about Dre.",
+    "Two trailer park girls going 'round the outside.",
+    "Big money, no whammies.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
