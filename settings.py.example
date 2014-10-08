@@ -1,2 +1,3 @@
 quitpassword = "password"
 nickservpassword = "nickservpassword"
+sqlpassword = "sqlpassword"
