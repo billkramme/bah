@@ -899,6 +899,7 @@ def wcards():
     "Two trailer park girls going 'round the outside.",
     "Big money, no whammies.",
     "A dildo made of frozen HIV.",
+    "Getting 9/10 in a trivia category you suggested.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
