@@ -898,6 +898,7 @@ def wcards():
     "Forgetting about Dre.",
     "Two trailer park girls going 'round the outside.",
     "Big money, no whammies.",
+    "A dildo made of frozen HIV.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1284,6 +1285,7 @@ def bcards():
     "Today is National __________ Day!",
     "Chank and res0 can't stop fighting about __________.",
     "What name will the trivia team use this week?",
+    "Anything, including __________, can be a dildo if you're brave enough.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
