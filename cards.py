@@ -902,6 +902,9 @@ def wcards():
     "Getting 9/10 in a trivia category you suggested.",
     "Naming everything after poop.",
     "Having a million friends but not really knowing anybody.",
+    "Being part of the 1%.",
+    "Joining an unpopular movement.",
+    "A tree falling silently in an empty forest.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1290,6 +1293,10 @@ def bcards():
     "What name will the trivia team use this week?",
     "Anything, including __________, can be a dildo if you're brave enough.",
     "spif has a friend that's familiar with __________.",
+    "__________ is a lie.",
+    "I got a creepy message asking for pics of __________.",
+    "More people die each year from __________ than from Ebola.",
+    "Why did I get sent home from school?",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
