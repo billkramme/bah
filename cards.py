@@ -882,7 +882,7 @@ def wcards():
     "A hands-free blowjob.",
     "Calming your tits.",
     "secretninjaket's rack.",
-    "Mr. Rogers balls deep in an underage prostitute.",
+#    "Mr. Rogers balls deep in an underage prostitute.",
     "A gum-job from Grandma.",
     "Getting dust in your hoo-hah.",
     "Poop bang.",
@@ -900,6 +900,8 @@ def wcards():
     "Big money, no whammies.",
     "A dildo made of frozen HIV.",
     "Getting 9/10 in a trivia category you suggested.",
+    "Naming everything after poop.",
+    "Having a million friends but not really knowing anybody.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1287,6 +1289,7 @@ def bcards():
     "Chank and res0 can't stop fighting about __________.",
     "What name will the trivia team use this week?",
     "Anything, including __________, can be a dildo if you're brave enough.",
+    "spif has a friend that's familiar with __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
@@ -1387,6 +1390,7 @@ def bcards2():
     "res0 is working on a new song that incorporates __________ and __________.",
     "I can't wait for __________ and __________ to coincide. But not in real life. Just in the cards.",
     "My surefire pickup line involves asking about __________ and suggesting that we go back to my place for __________.",
+    "If you squint your eyes just right, __________ looks just like __________.",
 #crabs
     "A wild __________ appears! You used __________! It's super effective!", 
     "I was once sent to the HR department for an incident involving __________ and __________.",
