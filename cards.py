@@ -905,6 +905,7 @@ def wcards():
     "Being part of the 1%.",
     "Joining an unpopular movement.",
     "A tree falling silently in an empty forest.",
+    "#GamerGate",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1297,6 +1298,7 @@ def bcards():
     "I got a creepy message asking for pics of __________.",
     "More people die each year from __________ than from Ebola.",
     "Why did I get sent home from school?",
+    "Actually, it's not about __________, it's about ethics in journalism.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
@@ -1410,10 +1412,10 @@ def bcards2():
     "An ounce of __________ is worth a pound of __________.",
     "Bentley's latest ultra-high-end luxury sedan comes complete with __________ and __________.",
     "Dear, your father and I found __________ and __________ in your bedroom. I'm shocked, and frankly just a little disappointed.",
-    "I got some strange looks in the checkout line when the cashier noticed  __________ and __________ in my cart.",
+    "I got some strange looks in the checkout line when the cashier noticed __________ and __________ in my cart.",
     "Netflix's new original series is a sitcom based around __________ and __________.",
     "The NSA wants to talk to me about an email I sent out containing phrases like __________ and __________.",
     "When I've seriously fucked up and need to make ammends, what can I give my significant other to show them I am truly remorseful?",
     "Yea, though I walk through the valley of __________, I will fear no __________.",
-    "rikkitikki can't move to San Diego because she'll miss out on __________ and __________.",
+    "rikkitikki is sad she moved to San Diego because she'll miss out on __________ and __________.",
 ]
