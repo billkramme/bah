@@ -1299,6 +1299,7 @@ def bcards():
     "More people die each year from __________ than from Ebola.",
     "Why did I get sent home from school?",
     "Actually, it's not about __________, it's about ethics in journalism.",
+    "For Halloween I'm dressing up as a slutty version of __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
