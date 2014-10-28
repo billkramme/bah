@@ -1420,4 +1420,5 @@ def bcards2():
     "When I've seriously fucked up and need to make ammends, what can I give my significant other to show them I am truly remorseful?",
     "Yea, though I walk through the valley of __________, I will fear no __________.",
     "rikkitikki is sad she moved to San Diego because she'll miss out on __________ and __________.",
+	"Casino QueeEEEeen, home of __________ !",
 ]
