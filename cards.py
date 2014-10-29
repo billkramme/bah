@@ -1301,6 +1301,7 @@ def bcards():
     "Why did I get sent home from school?",
     "Actually, it's not about __________, it's about ethics in journalism.",
     "For Halloween I'm dressing up as a slutty version of __________.",
+    "Casino QueeEEEeen, home of __________!",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
@@ -1347,7 +1348,6 @@ def bcards():
     "WANTED: a clean, well-lit place for __________.",
     "When you play the Game Of __________, you win or you die.",
     "Why won't anyone sit with me?",
-    "Casino QueeEEEeen, home of __________!",
 ]
 
 def bcards2():
@@ -1403,6 +1403,7 @@ def bcards2():
     "I can't wait for __________ and __________ to coincide. But not in real life. Just in the cards.",
     "My surefire pickup line involves asking about __________ and suggesting that we go back to my place for __________.",
     "If you squint your eyes just right, __________ looks just like __________.",
+    "rikkitikki is sad she moved to San Diego because she'll miss out on __________ and __________.",
 #crabs
     "A wild __________ appears! You used __________! It's super effective!", 
     "I was once sent to the HR department for an incident involving __________ and __________.",
@@ -1418,7 +1419,7 @@ def bcards2():
     "I got some strange looks in the checkout line when the cashier noticed __________ and __________ in my cart.",
     "Netflix's new original series is a sitcom based around __________ and __________.",
     "The NSA wants to talk to me about an email I sent out containing phrases like __________ and __________.",
-    "When I've seriously fucked up and need to make ammends, what can I give my significant other to show them I am truly remorseful?",
+    "When I've seriously fucked up and need to make amends, what can I give my significant other to show them I am truly remorseful?",
     "Yea, though I walk through the valley of __________, I will fear no __________.",
-    "rikkitikki is sad she moved to San Diego because she'll miss out on __________ and __________.",
+
 ]
