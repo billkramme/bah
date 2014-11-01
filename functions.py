@@ -90,7 +90,7 @@ def actioner(g, line, username, channel, gamechannel):
         else:
             newPlayer = Player(username)
             g.players.append(newPlayer)
-            messages.append({"message": "%s joined the game" %username, "channel": gamechannel})
+            messages.append({"message": "%s joined the game." %username, "channel": gamechannel})
             g.dealCards()
             if g.inprogress:
                 messages += [{"message": g.blackcard, "channel": username}]
@@ -289,7 +289,7 @@ def gameLogic(g, line, username, channel, gamechannel):
         if not g.czar:
             g.czar = g.players[0]
         g.round = g.newround
-        messages.append({"message": "Starting round %s. The Card Czar is %s" %(g.newround, g.czar.username), "channel": gamechannel})
+        messages.append({"message": "Starting round %s. The Card Czar is %s." %(g.newround, g.czar.username), "channel": gamechannel})
         g.dealCards()
         shuffle(g.allbcards)
         blackcard = g.allbcards.pop(0)
@@ -356,7 +356,7 @@ def gameLogic(g, line, username, channel, gamechannel):
         if g.waitCzar == 1:
             seed()
             shuffle(g.playedCards)
-            messages.append({"message": "The Czar, %s, must pick a card" % g.czar.username, "channel": gamechannel})
+            messages.append({"message": "The Czar, %s, must pick a card." % g.czar.username, "channel": gamechannel})
             messages.append({"message": g.blackcard, "channel": gamechannel})
             i = 1
             spacer = "  "
