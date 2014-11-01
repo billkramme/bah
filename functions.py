@@ -266,7 +266,7 @@ def actioner(g, line, username, channel, gamechannel):
             messages.append({"message": line[4:], "channel": gamechannel})
     elif lower[:4] == "act ":
     	if username == "res0":
-    	    messages.append({"message": "\x01 %s\x01" % line[4:], "channel": gamechannel})
+    	    messages.append({"message": "\x01ACTION %s\x01" % line[4:], "channel": gamechannel})
     return messages
 
 def gameLogic(g, line, username, channel, gamechannel):
