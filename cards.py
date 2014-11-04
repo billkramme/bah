@@ -1310,6 +1310,7 @@ def bcards():
     "Casino QueeEEEeen, home of __________!",
     "Why did I have to register as a sex offender?",
     "What was Nerfdude's favorite experience on his recent trip to Japan?",
+    "__________? That shit cray.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
