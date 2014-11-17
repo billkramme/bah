@@ -913,6 +913,7 @@ def wcards():
     "Nerfdude.",
     "Showing up at someone's workplace unannounced and calling it a meetup.",
     "Turning around in res0's driveway.",
+    "Too Many Cooks",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
