@@ -57,6 +57,7 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "status":
         if g.inprogress:
             if g.waitPlayers > 0:
+                playerstring = []
                 playernames = []
                 for player in g.players:
                     if player not in g.playedPlayers:
