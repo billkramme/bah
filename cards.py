@@ -914,7 +914,7 @@ def wcards():
     "Showing up at someone's workplace unannounced and calling it a meetup.",
     "Turning around in res0's driveway.",
     "Too Many Cooks",
-    "creating a reference experience for the spank bank",
+    "Creating a reference experience for the spank bank.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
