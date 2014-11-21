@@ -915,6 +915,7 @@ def wcards():
     "Turning around in res0's driveway.",
     "Too Many Cooks",
     "Creating a reference experience for the spank bank.",
+	"Three grandmas trying marijuana for the first time.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
