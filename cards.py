@@ -1077,6 +1077,7 @@ def wcards():
     "Using tears as lubricant.",
     "Wearing a blue fox fursuit on Casual Friday.",
     "Wearing your IUD into an MRI.",
+    "Hamster-sized snowflakes.",
 ]
 
 def bcards():
