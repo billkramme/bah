@@ -917,6 +917,10 @@ def wcards():
     "Creating a reference experience for the spank bank.",
     "Three grandmas trying marijuana for the first time.",
     "Hamster-sized snowflakes.",
+    "Electropop.",
+    "ajwalsh44.",
+    "||cw.",
+    "zeryl.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
