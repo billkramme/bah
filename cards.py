@@ -916,6 +916,7 @@ def wcards():
     "Too Many Cooks",
     "Creating a reference experience for the spank bank.",
     "Three grandmas trying marijuana for the first time.",
+    "Hamster-sized snowflakes.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1077,7 +1078,6 @@ def wcards():
     "Using tears as lubricant.",
     "Wearing a blue fox fursuit on Casual Friday.",
     "Wearing your IUD into an MRI.",
-    "Hamster-sized snowflakes.",
 ]
 
 def bcards():
@@ -1315,6 +1315,7 @@ def bcards():
     "Why did I have to register as a sex offender?",
     "What was Nerfdude's favorite experience on his recent trip to Japan?",
     "__________? That shit cray.",
+    "What is Electropop saving herself for?",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
