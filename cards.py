@@ -922,6 +922,7 @@ def wcards():
     "||cw.",
     "zeryl.",
     "Electropop's virginity.",
+    "Inappropriate use of Comic Sans.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
