@@ -923,6 +923,7 @@ def wcards():
     "zeryl.",
     "Electropop's virginity.",
     "Inappropriate use of Comic Sans.",
+    "anotherbofh.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1322,6 +1323,7 @@ def bcards():
     "What was Nerfdude's favorite experience on his recent trip to Japan?",
     "__________? That shit cray.",
     "What is Electropop saving herself for?",
+    "* anotherbofh is now known as bofh|__________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
