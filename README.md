@@ -8,3 +8,5 @@ This is currently a very poorly written bot, however most of the functionality i
 ===
 
 IRC Cards Against Humanity bot written in Python, forked from HumanityBot.
+
+TEST BRANCH
