@@ -1,3 +1,4 @@
+sets.append("stl")
 wcards-stl = [
     "A beluga whale.",
     "Rambone.",
