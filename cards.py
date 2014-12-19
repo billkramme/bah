@@ -924,6 +924,7 @@ def wcards():
     "Electropop's virginity.",
     "Inappropriate use of Comic Sans.",
     "anotherbofh.",
+    "Weaponized whales with shotgun blowholes.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
