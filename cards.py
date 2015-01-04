@@ -929,6 +929,7 @@ def wcards():
     "An incessantly whistling co-worker.",
     "Afterbirth.",
     "A five-drink lesbian.",
+    "Listless testicles.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1090,6 +1091,24 @@ def wcards():
     "Using tears as lubricant.",
     "Wearing a blue fox fursuit on Casual Friday.",
     "Wearing your IUD into an MRI.",
+#KwanzaaPast
+    "A protracted siege.",
+    "200 years of slavery.",
+    "Harnessing the miraculous power of the atom to slaughter 200,000 Japanese people.",
+    "Rock music and premarital sex.",
+    "This groovy new thing called LSD.",
+    "Blockbuster late fees up the wazoo.",
+    "The Bowflex Revolution.",
+    "Reading and entire book.",
+#KwanzaaPresent
+    "All the poop inside my body.",
+    "A vague fear of something called ISIS.",
+    "The diminishing purity of the white race.",
+    "Ebola.",
+    "Trying to feel something, anything.",
+    "Small-town cops with M4 assault rifles.",
+    "The 9000 children who starved to death today.",
+    "The transience of all things.",
 ]
 
 def bcards():
@@ -1375,6 +1394,11 @@ def bcards():
     "WANTED: a clean, well-lit place for __________.",
     "When you play the Game Of __________, you win or you die.",
     "Why won't anyone sit with me?",
+#KwanzaaPast
+    "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about __________. I love you, Casey.",
+    "Honey, Mommy and Daddy love you very much. But apparently Mommy loves __________. more than she loves Daddy.",
+#KwanzaaPresent
+    "Why am I so tired?",
 ]
 
 def bcards2():
@@ -1448,5 +1472,7 @@ def bcards2():
     "The NSA wants to talk to me about an email I sent out containing phrases like __________ and __________.",
     "When I've seriously fucked up and need to make amends, what can I give my significant other to show them I am truly remorseful?",
     "Yea, though I walk through the valley of __________, I will fear no __________.",
+#KwanzaaPresent
+    "Today on Buzzfeed: 10 pictures of __________ That Look Like __________!",
 
 ]
