@@ -927,6 +927,8 @@ def wcards():
     "Weaponized whales with shotgun blowholes.",
     "Your mom.",
     "An incessantly whistling co-worker.",
+    "Afterbirth.",
+    "A five-drink lesbian.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
