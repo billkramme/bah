@@ -930,6 +930,7 @@ def wcards():
     "Afterbirth.",
     "A five-drink lesbian.",
     "Listless testicles.",
+    "Overpriced, overrated, and oversalted roast beef.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1348,6 +1349,7 @@ def bcards():
     "__________? That shit cray.",
     "What is Electropop saving herself for?",
     "* anotherbofh is now known as bofh|__________.",
+    "What is _Deity ranting about today?",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
