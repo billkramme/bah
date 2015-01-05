@@ -931,6 +931,7 @@ def wcards():
     "A five-drink lesbian.",
     "Listless testicles.",
     "Overpriced, overrated, and oversalted roast beef.",
+    "_Deity.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
