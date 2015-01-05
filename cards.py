@@ -1351,6 +1351,7 @@ def bcards():
     "What is Electropop saving herself for?",
     "* anotherbofh is now known as bofh|__________.",
     "What is _Deity ranting about today?",
+    "One day Nyghtshade will be old enough for __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
