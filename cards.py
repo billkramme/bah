@@ -932,7 +932,8 @@ def wcards():
     "Listless testicles.",
     "Overpriced, overrated, and oversalted roast beef.",
     "_Deity.",
-    "Gary Busey.",
+    "Gary Busey's crazy fucking face.",
+    "rikkitikki's non-smokin' area of the restaurant.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
