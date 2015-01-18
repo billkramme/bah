@@ -1411,11 +1411,11 @@ def bcards():
     "Why won't anyone sit with me?",
 #KwanzaaPast
     "Dear Mom and Dad, Camp is fun. I like capture the flag. Yesterday, one of the older kids taught me about __________. I love you, Casey.",
-    "Honey, Mommy and Daddy love you very much. But apparently Mommy loves __________. more than she loves Daddy.",
+    "Honey, Mommy and Daddy love you very much. But apparently Mommy loves __________ more than she loves Daddy.",
 #KwanzaaPresent
     "Why am I so tired?",
 #KwanzaaFuture
-    "Behold the Four Hosemen of the Apocalypse! War, Famine, Death, and __________.",
+    "Behold the Four Horsemen of the Apocalypse! War, Famine, Death, and __________.",
 ]
 
 def bcards2():
