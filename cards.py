@@ -1371,6 +1371,7 @@ def bcards():
     "* anotherbofh is now known as bofh|__________.",
     "What is _Deity ranting about today?",
     "One day Nyghtshade will be old enough for __________.",
+    "I can't play bah with spif right now because I have to pay attention to __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
