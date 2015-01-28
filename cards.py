@@ -942,6 +942,7 @@ def wcards():
     "Getting fucked by a boron dildo.",
     "Cold dicks.",
     "Rotwang.",
+    "A St. Louis coal torpedo.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
