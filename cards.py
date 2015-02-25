@@ -945,7 +945,7 @@ def wcards():
     "A St. Louis coal torpedo.",
     "kitkatkaytee.",
     "scittles.",
-    "Cis-scum."
+    "Cis-scum.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
