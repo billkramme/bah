@@ -943,6 +943,9 @@ def wcards():
     "Cold dicks.",
     "Rotwang.",
     "A St. Louis coal torpedo.",
+    "kitkatkaytee.",
+    "scittles.",
+    "Cis-scum."
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1373,6 +1376,9 @@ def bcards():
     "What is _Deity ranting about today?",
     "One day Nyghtshade will be old enough for __________.",
     "I can't play bah with spif right now because I have to pay attention to __________.",
+    "The sequel to 50 Shades of Grey will be called 50 Shades of __________."
+    "If I want my friends to think I'm cool I tell them stories about __________."
+    "scittles' favorite thing to buy from ALDI is __________."
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
