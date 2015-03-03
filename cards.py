@@ -946,6 +946,8 @@ def wcards():
     "kitkatkaytee.",
     "scittles.",
     "Cis-scum.",
+    "Marlon Brando.",
+    "The Godfather.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1379,6 +1381,8 @@ def bcards():
     "The sequel to 50 Shades of Grey will be called 50 Shades of __________.",
     "If I want my friends to think I'm cool I tell them stories about __________.",
     "scittles' favorite thing to buy from ALDI is __________.",
+    "According to anotherbofh, the answer to every trivia question is __________.",
+    "St Louis area residents freaked out when the tornado sirens went off, but it turns out it was just __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
