@@ -948,6 +948,10 @@ def wcards():
     "Cis-scum.",
     "Marlon Brando.",
     "The Godfather.",
+    "Butts.",
+    "Butt stuff.",
+    "Failing to live up to your parents' legacy.",
+    "A Brazilian from a Brazilian.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1383,6 +1387,7 @@ def bcards():
     "scittles' favorite thing to buy from ALDI is __________.",
     "According to anotherbofh, the answer to every trivia question is __________.",
     "St Louis area residents freaked out when the tornado sirens went off, but it turns out it was just __________.",
+    "If you can't say something nice about __________, don't say anything at all.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
