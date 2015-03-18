@@ -1387,7 +1387,7 @@ def bcards():
     "According to anotherbofh, the answer to every trivia question is __________.",
     "St Louis area residents freaked out when the tornado sirens went off, but it turns out it was just __________.",
     "If you can't say something nice about __________, don't say anything at all.",
-    "Electropop's least favorite college class focused on __________."
+    "Electropop's least favorite college class focused on __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
