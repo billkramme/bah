@@ -951,6 +951,8 @@ def wcards():
     "Failing to live up to your parents' legacy.",
     "A Brazilian from a Brazilian.",
     "Ketchup on a cracker.",
+    "OPP.",
+    "Semen-flavored candy.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1388,6 +1390,7 @@ def bcards():
     "St Louis area residents freaked out when the tornado sirens went off, but it turns out it was just __________.",
     "If you can't say something nice about __________, don't say anything at all.",
     "Electropop's least favorite college class focused on __________.",
+    "You down with __________? Yeah, you know me.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
