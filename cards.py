@@ -953,6 +953,7 @@ def wcards():
     "Ketchup on a cracker.",
     "OPP.",
     "Semen-flavored candy.",
+    "A greasy banana.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
