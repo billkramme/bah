@@ -1394,7 +1394,7 @@ def bcards():
     "If you can't say something nice about __________, don't say anything at all.",
     "Electropop's least favorite college class focused on __________.",
     "You down with __________? Yeah, you know me.",
-    "Because he doesn't drink, k27363 is more interested in __________ than attending most /r/stl meetups.",
+    "Because he doesn't drink, k27463 is more interested in __________ than attending most /r/stl meetups.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
