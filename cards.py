@@ -956,6 +956,7 @@ def wcards():
     "A greasy banana.",
     "A social justice warrior.",
     "The Crusty Puffins.",
+    "Chank.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
