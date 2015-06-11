@@ -959,6 +959,7 @@ def wcards():
     "Chank.",
     "NefariousAMG.",
     "Going to a different trivia night.",
+    "A trigger warning.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1398,6 +1399,7 @@ def bcards():
     "Electropop's least favorite college class focused on __________.",
     "You down with __________? Yeah, you know me.",
     "Because he doesn't drink, k27463 is more interested in __________ than attending most /r/stl meetups.",
+    "TRIGGER WARNING: __________.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",
