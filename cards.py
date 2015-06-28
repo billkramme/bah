@@ -962,6 +962,7 @@ def wcards():
     "A trigger warning.",
     "Demanding that a card be removed.",
     "A legitimate Ecuadorian.",
+    "NefariousAMG.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
