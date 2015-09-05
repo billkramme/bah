@@ -100,13 +100,7 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "dump":
         if g.inprogress:
             if g.getPlayerByName(username):
-                if username == "bk":
-                    messages += [{"message": "Dumping your hand and redealing.", "channel": channel}]
-                    g.getPlayerByName(username).hand = []
-                    g.dealCards()
-                    messages += g.getPlayerByName(username).printCards()
-                    g.getPlayerByName(username).dumped = 1
-                elif g.getPlayerByName(username).score == 0:
+                if g.getPlayerByName(username).score == 0:
                     if g.getPlayerByName(username).dumped == 0:
                         messages += [{"message": "Dumping your hand and redealing.", "channel": channel}]
                         g.getPlayerByName(username).hand = []
