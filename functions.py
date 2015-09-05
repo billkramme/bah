@@ -126,8 +126,6 @@ def actioner(g, line, username, channel, gamechannel):
             messages.append({"message": "The Card Czar is %s" %g.czar.username, "channel": gamechannel})
         else:
             messages.append({"message": "There is no Card Czar yet", "channel": gamechannel})
-    elif lower[:5] == "kill ":
-        messages.append({"message": "DIE %s DIE!" % line[5:].upper(), "channel": gamechannel})
     elif lower == "cards":
         if g.inprogress:
             player = g.getPlayerByName(username)
