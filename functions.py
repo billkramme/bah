@@ -100,7 +100,13 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "dump":
         if g.inprogress:
             if g.getPlayerByName(username):
-                if g.getPlayerByName(username).score == 0:
+                if username == "bk":
+                    messages += [{"message": "Dumping your hand and redealing.", "channel": channel}]
+                    g.getPlayerByName(username).hand = []
+                    g.dealCards()
+                    messages += g.getPlayerByName(username).printCards()
+                    g.getPlayerByName(username).dumped = 1
+                elif g.getPlayerByName(username).score == 0:
                     if g.getPlayerByName(username).dumped == 0:
                         messages += [{"message": "Dumping your hand and redealing.", "channel": channel}]
                         g.getPlayerByName(username).hand = []
@@ -263,10 +269,10 @@ def actioner(g, line, username, channel, gamechannel):
     elif lower == "quit %s" % (settings.quitpassword):
         exit("Asked to quit by %username")
     elif lower[:4] == "say ":
-        if username == "res0":
+        if username == "bk":
             messages.append({"message": line[4:], "channel": gamechannel})
     elif lower[:4] == "act ":
-    	if username == "res0":
+    	if username == "bk":
     	    messages.append({"message": "\x01ACTION %s\x01" % line[4:], "channel": gamechannel})
     return messages
 

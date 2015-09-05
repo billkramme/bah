@@ -970,6 +970,7 @@ def wcards():
     "mdchap.",
     "Trains.",
     "HO scale.",
+    "Robbles.",
 #Crabs
     "A $50 cup of coffee literally made from cat shit.",
     "A beard longer than 12 inches.",
@@ -1413,6 +1414,7 @@ def bcards():
     "ajwalsh44 isn't famous murder victim Adam Walsh; he's actually __________.",
     "What does Chewbaccer miss most about Pennsylvania?",
     "mdchap was born in 1990, the same year __________ debuted.",
+    "Because his email address contained __________, k27463 was stuck with being called that at work forever.",
 #Crabs
     "__________: Just sayin'.",
     "__________: not even once.",

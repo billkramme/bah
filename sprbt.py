@@ -110,7 +110,6 @@ class IRCConnector( threading.Thread):
 
                     if channel == self.botname:
                         channel = username
-
                     if lower == "$kill" and username == "sprmtt":
                         self.s.send("QUIT :Bot quit\n")
                     elif lower == "$test":
