@@ -1445,7 +1445,7 @@ def bcards():
     "Audiences at Sundance were traumatized by Lars von Trier's controversial new film, '__________'.",
     "Dear Dan Savage, Please help. I am unable to achieve orgasm without __________.",
     "Experts say that without careful management and conservation, __________ will disappear within our lifetimes.",
-    "From the people who brough you Sharktopus and Sharknato, Syfy's next horror film combines sharks with __________.",
+    "From the people who brough you Sharktopus and Sharknado, Syfy's next horror film combines sharks with __________.",
     "Having abandoned his pleas for a return to the gold standard, Ron Paul is now promoting a __________-based economy.",
     "What's the name of my latest music project?",
     "I don't care what people say, __________ is not a crime.",
