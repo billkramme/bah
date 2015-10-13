@@ -181,17 +181,17 @@ def actioner(g, line, username, channel, gamechannel):
                 whitecard1 = g.wcards.pop(0)
                 whitecard2 = g.wcards.pop(0)
                 if "__________" in g.blackcard:
-                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard1.replace(".", "")+"\x1f", 1)
-                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard2.replace(".", "")+"\x1f")
+                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard1.rstrip(".")+"\x1f", 1)
+                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard2.rstrip(".")+"\x1f")
                 else:
-                    g.blackcard += " \x1f"+whitecard1.replace(".", "")+"\x1f and \x1f"+whitecard2.replace(".", "")+"\x1f."
+                    g.blackcard += " \x1f"+whitecard1.rstrip(".")+"\x1f and \x1f"+whitecard2.rstrip(".")+"\x1f."
                 messages.append({"message": g.blackcard, "channel": channel})
             else:
                 whitecard = g.wcards.pop(0)
                 if "__________" in g.blackcard:
-                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard.replace(".", "")+"\x1f")
+                    g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard.rstrip(".")+"\x1f")
                 else:
-                    g.blackcard += " \x1f"+whitecard.replace(".", "")+"\x1f."
+                    g.blackcard += " \x1f"+whitecard.rstrip(".")+"\x1f."
                 messages.append({"message": g.blackcard, "channel": channel})
 
     elif lower[:7] == "random ":
@@ -221,17 +221,17 @@ def actioner(g, line, username, channel, gamechannel):
                     whitecard1 = g.wcards.pop(0)
                     whitecard2 = g.wcards.pop(0)
                     if "__________" in g.blackcard:
-                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard1.replace(".", "")+"\x1f", 1)
-                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard2.replace(".", "")+"\x1f")
+                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard1.rstrip(".")+"\x1f", 1)
+                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard2.rstrip(".")+"\x1f")
                     else:
-                        g.blackcard += " \x1f"+whitecard1.replace(".", "")+"\x1f and \x1f"+whitecard2.replace(".", "")+"\x1f."
+                        g.blackcard += " \x1f"+whitecard1.rstrip(".")+"\x1f and \x1f"+whitecard2.rstrip(".")+"\x1f."
                     messages.append({"message": g.blackcard, "channel": channel})
                 else:
                     whitecard = g.wcards.pop(0)
                     if "__________" in g.blackcard:
-                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard.replace(".", "")+"\x1f")
+                        g.blackcard = g.blackcard.replace("__________", "\x1f"+whitecard.rstrip(".")+"\x1f")
                     else:
-                        g.blackcard += " \x1f"+whitecard.replace(".", "")+"\x1f."
+                        g.blackcard += " \x1f"+whitecard.rstrip(".")+"\x1f."
                     messages.append({"message": g.blackcard, "channel": channel})
 
     elif lower[:8] == "wrandom ":
@@ -255,9 +255,9 @@ def actioner(g, line, username, channel, gamechannel):
                 whitecard = matchedwcards.pop(0)
                 g.whitecard = whitecard["card"]
                 if "__________" in g.blackcard:
-                    g.blackcard = g.blackcard.replace("__________", "\x1f"+g.whitecard.replace(".", "")+"\x1f")
+                    g.blackcard = g.blackcard.replace("__________", "\x1f"+g.whitecard.rstrip(".")+"\x1f")
                 else:
-                    g.blackcard += " \x1f"+g.whitecard.replace(".", "")+"\x1f."
+                    g.blackcard += " \x1f"+g.whitecard.rstrip(".")+"\x1f."
                 messages.append({"message": g.blackcard, "channel": channel})
    
     elif lower == "test":
