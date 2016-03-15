@@ -1140,7 +1140,7 @@ def wcards():
     "This groovy new thing called LSD.",
     "Blockbuster late fees up the wazoo.",
     "The Bowflex Revolution.",
-    "Reading and entire book.",
+    "Reading an entire book.",
 #KwanzaaPresent
     "All the poop inside my body.",
     "A vague fear of something called ISIS.",
